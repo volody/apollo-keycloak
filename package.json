@@ -1,0 +1,19 @@
+{
+  "name": "apollo-keycloak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "graphql": "^16.9.0",
+    "keycloak-connect": "^25.0.6"
+  }
+}
